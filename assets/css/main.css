@@ -1,0 +1,139 @@
+.full-screen{
+    min-height:100%;
+    width: 100%;
+    color: white;
+}
+
+.top{
+    background-color: #c5000e;
+    background: url(../img/bg-top.jpg) no-repeat center center;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.top-title{
+    text-align:center;
+    font-size: 5em;
+    font-weight: 600;
+    letter-spacing: 1rem;
+}
+
+.top-secondary-title{
+    margin-top: -0.5em;
+    text-align:center;
+    font-size: 2em;
+    font-weight: 500;
+    letter-spacing: 1.1rem;
+}
+
+.top-container{
+    padding-top: 1rem;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 400;
+}
+
+.general{
+    background-color: #c5002c;
+    background: url(../img/bg-general.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.general-tag{
+    font-size: 1.4em;
+    font-weight: 80;
+    border-radius: 0.5em;
+    border: 1px #eeeeee solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.general-title{
+    font-size: 3em;
+    font-weight: 600;
+    line-height:1.4em;
+}
+
+.general-content{
+    font-size: 1.1em;
+    font-weight: 300;
+}
+
+.am-u-lg-6{
+    padding:0;
+}
+
+.am-u-md-12{
+    padding:0;
+}
+
+.am-g{
+    margin:0!important;
+}
+
+.snip{
+    width:80%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 20px;
+    border: 1px #eeeeee solid;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.snip-title{
+    font-size:2.5em;
+    font-weight: 500;
+}
+
+.snip-content{
+    font-size: 0.9em;
+    font-weight: 80;
+    margin-top: -1em;
+}
+
+.cuisine{
+    background-color: #333;
+    background: url(../img/bg-cuisine.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 40px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.cuisine-tag{
+    font-size: 1.4em;
+    font-weight: 80;
+    border-radius: 0.5em;
+    border: 1px #eeeeee solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.cuisine-title{
+    font-size: 3em;
+    font-weight: 600;
+    line-height:1.4em;
+}
+
+.cuisine-content{
+    font-size: 1.1em;
+    font-weight: 300;
+}
+
+.am-u-lg-8{
+    padding:0;
+}
