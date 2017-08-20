@@ -10,6 +10,9 @@
     background-size: cover;
     padding-top: 150px;
     padding-bottom: 150px;
+    -webkit-box-shadow:0 0 10px rgba(255, 255, 255, .5);  
+    -moz-box-shadow:0 0 10px rgba(255, 255, 255, .5); 
+    box-shadow:0 0 10px rgba(255, 255, 255, .5); 
 }
 
 .top-title{
